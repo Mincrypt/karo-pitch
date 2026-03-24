@@ -1,12 +1,11 @@
-<div align="center">
-karo-pitch
-</div>
+# karo-pitch
+
 
 # Run and deploy your app
 
 This contains everything you need to run your app locally.
 
-`-`
+`https://karo-pitch-gamma.vercel.app/`
 
 ## Run Locally
 
